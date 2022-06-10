@@ -8,4 +8,4 @@
 
 ![Visitors badge](https://visitor-badge.glitch.me/badge?page_id=kamil-lontkowski.kamil-lontkowski)
 
-![LinkedIn link](https://img.shields.io/badge/-Kamil%20Lontkowski-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kamil-lontkowski/)
+[![LinkedIn link](https://img.shields.io/badge/-Kamil%20Lontkowski-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kamil-lontkowski/)](https://www.linkedin.com/in/kamil-lontkowski/)
